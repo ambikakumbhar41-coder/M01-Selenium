@@ -6,6 +6,7 @@ public class Practices {
 	System.out.println("some changes in github");
     System.out.println("Changes to github");
 	System.out.println("In Brancha");
+	System.out.println("Frome ATE");
 
 
 	}
